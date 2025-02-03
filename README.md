@@ -11,6 +11,12 @@ Welcome to the React Interview Question Daily Challenge repository! This is your
 
   When all 6 digits are entered, automatically submit the OTP and log it as `console.log("Logged in successfully", otp)`. Add a Submit OTP button for manual submission.
 </details>
+<details>
+  <summary>Question 2</summary>
+    create a  progress bar component that takes a value prop and displays a progress bar with the value
+    the progress bar should be animated and the value should be displayed in the center of the progress bar
+    the progress bar should be responsive and the value should be displayed in the center of the progress bar
+</details>
 
 ## 📁 Repository Structure
 
